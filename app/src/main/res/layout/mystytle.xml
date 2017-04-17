@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--創一個layout然後把外層layout刪掉,再把xmlns:android="http://schemas.android.com/apk/res/android"複製到textview中-->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textView2"
+    android:layout_width="wrap_content"
+    android:layout_height="60dp"
+    android:layout_weight="1"
+    android:textColor="#0000FF"
+    android:textSize="18sp" />
+

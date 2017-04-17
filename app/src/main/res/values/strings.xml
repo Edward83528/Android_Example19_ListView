@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="like_things">你最喜歡的運動</string>
+    <string-array name="balls">
+        <item> 籃球</item>
+        <item> 排球</item>
+        <item> 桌球</item>
+        <item> 撞球</item>
+        <item> 保齡球</item>
+        <item> 羽球</item>
+        <item> 網球</item>
+        <item> 高爾夫球</item>
+        <item> 游泳</item>
+        <item> 慢跑</item>
+        <item> 走路</item>
+        <item> 瑜珈</item>
+        <item> 有氧拳擊</item>
+        <item> 跆拳道</item>
+        <item> 空手道</item>
+        <item> 棒球</item>
+    </string-array>
+</resources>
